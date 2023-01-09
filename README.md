@@ -19,7 +19,7 @@ Thats it... After 2-3 min of Initialize, Check your CRD Application or Account.
 ##############################################################################################
     =================================( Havo Scripting )====================================
 1. OPEN A GITHUB ACCOUNT
-2. FORK https://github.com/HavoScripting/shakrdp
+2. FORK https://github.com/Alphacorptes/ToraDesk
 3. GO TO ACTIONS
 4. CREATE A NEW WORKFLOW
 5. GO TO https://remotedesktop.google.com/headless AND COPY THE POWERSHELL SCRIPT
